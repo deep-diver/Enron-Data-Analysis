@@ -28,6 +28,7 @@ This notebook shows how data analysis on enron dataset can be done. The goal of 
 ![F1 Score Result](f1.png)
 <div style="text-align: center"> F1 Score Result </div>
 <br/><br/>
+
 ![Accuracy Score Result](acc.png)
 <div style="text-align: center"> Accuracy Score Result </div>
 
