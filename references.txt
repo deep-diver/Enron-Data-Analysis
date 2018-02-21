@@ -1,0 +1,14 @@
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
+
+conceptual study
+- www.udacity.com
+
+programming reference
+- https://pandas.pydata.org
+- http://scikit-learn.org/stable/
+
+error reference
+- https://stackoverflow.com/questions/30442259/why-does-not-gridsearchcv-give-best-score-scikit-learn
+- https://stackoverflow.com/questions/25222123/why-are-the-grid-scores-higher-than-the-score-for-full-training-set-sklearn?rq=1
+- https://stackoverflow.com/questions/26097921/choosing-random-state-for-sklearn-algorithms
+- https://stackoverflow.com/questions/28064634/random-state-pseudo-random-numberin-scikit-learn
